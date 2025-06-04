@@ -58,7 +58,7 @@ Follow [NaviLLM](https://github.com/zd11024/NaviLLM) to get the navigation data,
 
 ### 2. landmark data
    
-Download the landmark data here.
+Download the landmark data [here](https://www.dropbox.com/scl/fi/tzt6wy1mys9h9cg87h5j2/t2t_landmarks.zip?rlkey=qq6pfgbq14suzw09627a70rzt&st=fh7tm0by&dl=0).
 
 ## Training & Inference
 ### 1. Training
